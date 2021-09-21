@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Deepak's Intro Page
 
-You can use the [editor on GitHub](https://github.com/koolKai/koolKai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello I'm learning web developing and looking for my first job.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Currntly I'm doing freelancing work with my friend.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
